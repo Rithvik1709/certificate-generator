@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application for creating beautiful, customizable certificates. Simply describe your certificate design and content in natural language, and the app will generate a professional certificate ready for download as PNG or PDF.
 
-## ✨ Features
+##  Features
 
 - **Natural Language Input**: Describe your certificate design using plain English, and the app will automatically extract relevant information
 - **Multiple Templates**: Choose from 6 professional templates:
@@ -22,7 +22,7 @@ A modern, user-friendly web application for creating beautiful, customizable cer
 - **Export Options**: Download certificates as high-quality PNG or PDF files
 - **Fully Responsive**: Works seamlessly on desktop and mobile devices
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -109,7 +109,7 @@ certificate-generator/
 └── package.json         # Dependencies and scripts
 ```
 
-## 🎨 Customization
+## Customization
 
 The certificate generator supports extensive customization through both natural language prompts and manual controls:
 
@@ -125,17 +125,7 @@ Access the customization panel after generation to fine-tune:
 - Design elements (colors, fonts, borders)
 - Layout orientation
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 Scripts
+## Scripts
 
 - `pnpm dev` - Start the development server
 - `pnpm build` - Build the application for production
@@ -145,23 +135,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 🐛 Known Issues
 
 - None at the moment. Please report any bugs you find!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Rithvik1709**
-
-- GitHub: [@Rithvik1709](https://github.com/Rithvik1709)
-
-## 🙏 Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- UI components from [Radix UI](https://www.radix-ui.com/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-
----
-
-**Made with ❤️ for creating beautiful certificates**
